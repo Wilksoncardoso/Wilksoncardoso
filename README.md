@@ -50,6 +50,8 @@ Vue • NuxtJS • React • NextJS • TypeScript • Pinia • Vuetify • Qua
 
 
 ## Projetos
+
+---
    
 ### 🧩 Projeto em destaque — IndicaTEA
 
@@ -82,6 +84,8 @@ A aplicação possui integração com o **GitLab**, coletando automaticamente da
 * ⏱️ Acompanhamento de entregas e ciclos
 * 🎯 Indicadores de produtividade individual e coletiva
 * 🔄 Dados sincronizados diretamente com o GitLab
+
+---
 
 ### 💳  Dashboard White Label | AQPAGO
 

@@ -1,16 +1,29 @@
-## Hi there 👋
+# Olá, sou o Wilkson 👋
 
-<!--
-**Wilksoncardoso/Wilksoncardoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor **Front-end Sênior / Fullstack**, com foco em UX/UI, atuando há 6 anos no mercado financeiro (fintech). Hoje trabalho com pagamentos, plataformas de gestão e CRMs no ecossistema digital da AQBank.
 
-Here are some ideas to get you started:
+📍 Belém-PA, Brasil &nbsp;|&nbsp; 🟢 Aberto a oportunidades remotas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Stack principal
+
+`TypeScript` `JavaScript` `React` `Vue.js` `Nuxt.js` `Next.js` `Angular`
+`PHP` `Laravel` `Sass/CSS` `SQL`
+
+### 💼 Especialidades
+
+- Arquiteturas de front-end escaláveis e seguras para transações financeiras
+- Plataformas de gerenciamento e análise de dados para operações financeiras
+- CRMs customizados para relacionamento com clientes
+- UX/UI aplicado a produtos digitais complexos (fintech)
+
+### 🧩 Projeto em destaque — IndicaTEA
+
+Marketplace que conecta famílias a profissionais especializados em TEA, TDAH, Paralisia Cerebral, Síndrome de Down e outras condições do desenvolvimento infantil. Inclui busca com filtros avançados, mapa com clusterização, perfis de profissionais com planos pagos e autenticação social + e-mail/senha.
+
+### 📫 Contato
+
+- 🌐 [wilkson.com.br](https://wilkson.com.br)
+- 💼 [procodepj.com.br](https://procodepj.com.br)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/wilksonkardoso/)
